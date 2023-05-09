@@ -11,6 +11,8 @@ react (js) + css
 
 ## Ссылка на приложение
 
+https://timalk16.github.io/meeting-room/
+
 
 
 
