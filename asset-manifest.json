@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meeting-room/static/css/main.b3412943.css",
+    "main.js": "/meeting-room/static/js/main.89f9a62b.js",
+    "index.html": "/meeting-room/index.html",
+    "main.b3412943.css.map": "/meeting-room/static/css/main.b3412943.css.map",
+    "main.89f9a62b.js.map": "/meeting-room/static/js/main.89f9a62b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3412943.css",
+    "static/js/main.89f9a62b.js"
+  ]
+}
